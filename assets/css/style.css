@@ -1,0 +1,28 @@
+body{
+    background-color: white;
+    background-image: url("https://wallpaper.dog/large/7517.jpg");
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header{
+    background-color: Grey;
+    border: thick;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 10px;
+    border: solid;
+    background-color: white;
+}
+
+.answers{
+    display: flex;
+    justify-content: center;
+}
